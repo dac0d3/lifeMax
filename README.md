@@ -1,4 +1,5 @@
-# macroMode
+# Life Max
+
 -Save meals
   -Calculate Calories
   -Calculate Vitamin intake
