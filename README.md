@@ -10,5 +10,7 @@
   -password
   
 -Data saved in MySQL
--Python app
--AWS Elastic Beanstalk
+-Python backend
+-React Front end 
+-AWS Elastic Beanstalk for deployment 
+
