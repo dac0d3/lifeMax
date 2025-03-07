@@ -3,6 +3,7 @@ import '../../css/loginSignup.css';
 
 const LoginSignup = () => {
     return (
+        
         <div class = "container">
             <div class = "header">
                 <div class = "title">Sign Up</div>
@@ -15,8 +16,12 @@ const LoginSignup = () => {
                 <input type = "text" placeholder = "Email" />
                 <input type = "password" placeholder = "Password" />
             </div>
+
+               
+    
         </div>
-    )
+        
+    );
 }
 
 export default LoginSignup;
