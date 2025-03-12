@@ -3,6 +3,9 @@ import './App.css';
 import LoginSignup from './components/loginSignup/loginSignup';
 import MealCalculator from './components/mealCalculator';
 import Dashboard from './components/dashboard';
+import Sidebar from './components/sideBar';
+import React from 'react';
+
 
 
 function App() {
